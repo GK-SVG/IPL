@@ -1,14 +1,14 @@
-Team_Id,Team_Name,Team_Short_Code
-1,Kolkata Knight Riders,KKR
-2,Royal Challengers Bangalore,RCB
-3,Chennai Super Kings,CSK
-4,Kings XI Punjab,KXIP
-5,Rajasthan Royals,RR
-6,Delhi Daredevils,DD
-7,Mumbai Indians,MI
-8,Deccan Chargers,DC
-9,Kochi Tuskers Kerala,KTK
-10,Pune Warriors,PW
-11,Sunrisers Hyderabad,SRH
-12,Rising Pune Supergiants,RPS
-13,Gujarat Lions,GL
+,Team_Id,Team_Name,Team_Short_Code,matches_played,win,loss
+0,1,Kolkata Knight Riders,KKR,132,68,64
+1,2,Royal Challengers Bangalore,RCB,139,70,69
+2,3,Chennai Super Kings,CSK,131,79,52
+3,4,Kings XI Punjab,KXIP,134,63,71
+4,5,Rajasthan Royals,RR,118,63,55
+5,6,Delhi Daredevils,DD,133,56,77
+6,7,Mumbai Indians,MI,140,80,60
+7,8,Deccan Chargers,DC,75,29,46
+8,9,Kochi Tuskers Kerala,KTK,14,6,8
+9,10,Pune Warriors,PW,46,12,34
+10,11,Sunrisers Hyderabad,SRH,62,34,28
+11,12,Rising Pune Supergiants,RPS,14,5,9
+12,13,Gujarat Lions,GL,16,9,7
