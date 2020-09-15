@@ -1,14 +1,14 @@
-,Team_Id,Team_Name,Team_Short_Code,matches_played,win,loss
-0,1,Kolkata Knight Riders,KKR,132,68,64
-1,2,Royal Challengers Bangalore,RCB,139,70,69
-2,3,Chennai Super Kings,CSK,131,79,52
-3,4,Kings XI Punjab,KXIP,134,63,71
-4,5,Rajasthan Royals,RR,118,63,55
-5,6,Delhi Daredevils,DD,133,56,77
-6,7,Mumbai Indians,MI,140,80,60
-7,8,Deccan Chargers,DC,75,29,46
-8,9,Kochi Tuskers Kerala,KTK,14,6,8
-9,10,Pune Warriors,PW,46,12,34
-10,11,Sunrisers Hyderabad,SRH,62,34,28
-11,12,Rising Pune Supergiants,RPS,14,5,9
-12,13,Gujarat Lions,GL,16,9,7
+,Unnamed: 0,Team_Id,Team_Name,Team_Short_Code,matches_played,win,loss,tie
+0,0,1,Kolkata Knight Riders,KKR,132,68,64,0
+1,1,2,Royal Challengers Bangalore,RCB,139,70,67,2
+2,2,3,Chennai Super Kings,CSK,131,79,52,0
+3,3,4,Kings XI Punjab,KXIP,134,63,71,0
+4,4,5,Rajasthan Royals,RR,118,63,54,1
+5,5,6,Delhi Daredevils,DD,133,56,75,2
+6,6,7,Mumbai Indians,MI,140,80,60,0
+7,7,8,Deccan Chargers,DC,75,29,46,0
+8,8,9,Kochi Tuskers Kerala,KTK,14,6,8,0
+9,9,10,Pune Warriors,PW,46,12,33,1
+10,10,11,Sunrisers Hyderabad,SRH,62,34,28,0
+11,11,12,Rising Pune Supergiants,RPS,14,5,9,0
+12,12,13,Gujarat Lions,GL,16,9,7,0
